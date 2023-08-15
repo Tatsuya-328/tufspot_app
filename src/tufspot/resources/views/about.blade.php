@@ -1,6 +1,6 @@
 <x-template>
     <x-slot name="title"> TUFSPOT_about </x-slot>
-    {{-- タイトル位置はcomponentsで呼び出したい --}}
+    {{-- タイトル位置はcomponentsで呼び出したい. --}}
     <x-header />
     <x-bread />
     <div class="about-top-wrapper d-flex justify-content-between">
